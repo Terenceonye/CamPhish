@@ -1,0 +1,3 @@
+IP: 197.210.71.187
+ User-Agent: YoGBWhatsApp/2.23.1.76 AIP: 197.210.70.202
+ User-Agent: Mozilla/5.0 (Linux; Android 12; TECNO CI6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
